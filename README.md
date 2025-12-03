@@ -1,7 +1,7 @@
 #Overtake Driving RL_metadrive
 
 심층 강화학습(Deep Reinforcement Learning, PPO)을 활용하여 MetaDrive 시뮬레이터 환경에서 고속 추월 및 충돌 회피를 수행하는 자율주행 에이전트 프로젝트입니다.
-한양대학교 강화학습 이론과 응용 수업 프로젝트 결과로 제작되었고
+한양대학교 대학원 강화학습 이론과 응용 수업 프로젝트 결과로 제작되었고
 metadrive로 구현되어 있습니다.  (https://metadriverse.github.io/metadrive/)
 
 ---
