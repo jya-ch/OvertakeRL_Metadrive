@@ -35,8 +35,8 @@ Evaluation / Visualization (시각화)
 python evaluate_ot_lidar.py
 
 File Structure
-train_ot_lidar_traffic.py: 메인 학습 스크립트 
-env_ot_lidar.py: 커스텀 MetaDrive 환경 설정 (Lidar 72ch, Reward Function)
-continue_train.py: 학습 모델 로드 및 추가 학습 스크립트
-evaluate_ot_lidar.py: 주행 시각화 및 평가 스크립트
-models/: 학습된 모델 체크포인트 저장 폴더
+- train_ot_lidar_traffic.py: 메인 학습 스크립트 
+- env_ot_lidar.py: 커스텀 MetaDrive 환경 설정 (Lidar 72ch, Reward Function)
+- continue_train.py: 학습 모델 로드 및 추가 학습 스크립트
+- evaluate_ot_lidar.py: 주행 시각화 및 평가 스크립트
+- models/: 학습된 모델 체크포인트 저장 폴더
