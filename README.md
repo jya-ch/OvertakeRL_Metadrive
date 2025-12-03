@@ -22,6 +22,9 @@ metadrive로 구현되어 있습니다.  (https://metadriverse.github.io/metadri
 ---
 ## 실행 방법
 
+Confing Environment (환경 설정)
+env_ot_lidar.py 보상함수 및 환경 설정.
+
 Training (학습 시작)
 - 처음부터 학습을 시작합니다.
 python train_ot_lidar_traffic.py
